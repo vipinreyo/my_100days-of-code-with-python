@@ -1,5 +1,29 @@
+from collections import defaultdict
 
 def main():
+    cars = {
+        'Ford': ['Falcon', 'Focus', 'Festiva', 'Fairlane'],
+        'Holden': ['Commodore', 'Captiva', 'Barina', 'Trailblazer'],
+        'Nissan': ['Maxima', 'Pulsar', '350Z', 'Navara'],
+        'Honda': ['Civic', 'Accord', 'Odyssey', 'Jazz'],
+        'Jeep': ['Grand Cherokee', 'Cherokee', 'Trailhawk', 'Trackhawk']
+    }
+
+    for row in cars.values():
+        for i in row:
+            if "Trail" in i:
+                print(i)
+
+    my_list = [i for row in cars.values() for i in row if "trailgit diff".lower() in i.lower()]
+    print(my_list)
+
+    cars_updated = defaultdict(list)
+    for car, models in cars.items():
+        cars_updated[car] = sorted(models, key=lambda x: x)
+
+    print(cars_updated)
+
+
     #list
     # mutable
     empty_list = [] # empty list
