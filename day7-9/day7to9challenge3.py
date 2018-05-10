@@ -1,5 +1,5 @@
 from data import us_state_abbrev, states_list
-
+import os
 
 def main():
     #Challenge 1: Print the 10th item in each data structure

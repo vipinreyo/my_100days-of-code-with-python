@@ -1,5 +1,6 @@
 from collections import namedtuple, defaultdict, Counter, deque
-import random, datetime
+import random
+import datetime
 
 
 def main():
