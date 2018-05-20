@@ -1,6 +1,5 @@
 import itertools
 import os
-import urllib.request
 
 # PREWORK
 DICTIONARY = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'dictionary.txt')
@@ -24,8 +23,6 @@ def _get_permutations_draw(draw):
 
 
 def main():
-    # for word in get_possible_dict_words('T, I, I, G, T, T, L'.split(', ')):
-    #     print(word)
     draw = 'T, I, I, G, T, T, L'.split(', ')
     for word in get_possible_dict_words(draw):
         print(word)
