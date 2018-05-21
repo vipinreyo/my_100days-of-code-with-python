@@ -1,0 +1,18 @@
+[2018-05-21 09:57:52.337176] NOTICE: Startup: Logging initialised. level: 9 mode: file mode
+[2018-05-21 09:57:56.176408] TRACE: API: Starting search for Hero
+[2018-05-21 09:57:56.849258] TRACE: API: Request finished, status code: 200
+[2018-05-21 09:57:56.849748] TRACE: API: Finished search for Hero, 10 in 673 ms
+[2018-05-21 09:57:56.850112] TRACE: App: Movie found
+[2018-05-21 09:58:13.111176] NOTICE: Startup: Logging initialised. level: 9 mode: file mode
+[2018-05-21 09:58:18.325268] TRACE: API: Starting search for Avengers
+[2018-05-21 09:58:18.970355] TRACE: API: Request finished, status code: 200
+[2018-05-21 09:58:18.970705] TRACE: API: Finished search for Avengers, 2 in 645 ms
+[2018-05-21 09:58:18.970953] TRACE: App: Movie found
+[2018-05-21 09:58:31.882327] NOTICE: Startup: Logging initialised. level: 9 mode: file mode
+[2018-05-21 09:58:35.178314] TRACE: API: Starting search for Jazz
+[2018-05-21 09:58:35.871409] TRACE: API: Request finished, status code: 200
+[2018-05-21 09:58:35.871907] TRACE: API: Finished search for Jazz, 7 in 693 ms
+[2018-05-21 09:58:35.872265] TRACE: App: Movie found
+[2018-05-21 09:58:40.283088] NOTICE: Startup: Logging initialised. level: 9 mode: file mode
+[2018-05-21 09:58:41.484764] WARNING: API: Empty keyword given.
+[2018-05-21 09:58:41.485077] WARNING: App: You must specify a search term.
