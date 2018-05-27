@@ -1,0 +1,12 @@
+[2018-05-23 13:34:38.782363] NOTICE: Start Up: Logging initialised. mode = file mode level = 9
+[2018-05-23 13:36:14.372245] NOTICE: Start Up: Logging initialised. mode = file mode level = 9
+[2018-05-23 13:36:29.657191] NOTICE: Start Up: Logging initialised. mode = file mode level = 9
+[2018-05-23 13:37:11.450045] NOTICE: Start Up: Logging initialised. mode = file mode level = 9
+[2018-05-23 13:44:30.152871] NOTICE: Start Up: Logging initialised. mode = file mode level = 9
+[2018-05-23 13:44:30.153063] TRACE: APP: Game loop starting
+[2018-05-23 13:44:35.577508] TRACE: APP: Reading battle data from file and creating Rolls (a list of Rolls)
+[2018-05-23 13:44:35.583681] TRACE: APP: Listing the Rolls
+[2018-05-23 13:44:38.351989] TRACE: APP: Listing the Rolls
+[2018-05-23 13:44:40.238769] TRACE: APP: Listing the Rolls
+[2018-05-23 13:44:41.440465] TRACE: APP: Game loop ended.
+[2018-05-23 13:44:41.440642] TRACE: APP: Finding the winner!
