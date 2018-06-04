@@ -4,7 +4,7 @@ from pprint import pprint
 
 scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('<CLIENT_SECRETE_FILE>', scope)
 client = gspread.authorize(creds)
 
 sheet = client.open('US Legislators 2017').sheet1
