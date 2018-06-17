@@ -9,6 +9,7 @@ from collections import defaultdict
 
 app_logger = logbook.Logger('APP')
 
+
 def print_header():
     print('-------------------------------------------------------')
     print('          15 Ways Rocks, Papers & Scissors              ')
