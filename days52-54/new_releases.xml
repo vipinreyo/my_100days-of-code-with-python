@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" ?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:steam="http://www.steampowered.com" xmlns="http://purl.org/rss/1.0/">
+	<channel rdf:about="http://www.steampowered.com">
+		<title>Steam RSS News Feed</title> 
+		<link>http://www.steampowered.com/</link> 
+		<description>All Steam news, all the time!</description> 
+		<language>en</language> 
+				<pubDate>Mon, 18 Jun 2018 10:00:00 -0700</pubDate>
+		<generator>http://www.steampowered.com/</generator> 
+		<items>
+			<rdf:Seq>
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41209/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41208/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41207/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41219/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41206/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41138/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41151/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/40885/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41145/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41137/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41042/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41044/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41081/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41062/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41045/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41038/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41046/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41019/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41023/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/41011/" />
+						</rdf:Seq>
+		</items>
+	</channel>
+					<item rdf:about="https://store.steampowered.com/news/41209/">
+			<title><![CDATA[Daily Deal - Ni no Kuni™ II: Revenant Kingdom, 40% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41209/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41209/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 18 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-18T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 40% on <a href='http://store.steampowered.com/app/589360/'>Ni no Kuni&trade; II: Revenant Kingdom</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Wednesday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/589360/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/589360/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41208/">
+			<title><![CDATA[Daily Deal - Megaton Rainfall, 38% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41208/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41208/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Sun, 17 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-17T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 38% on <a href='http://store.steampowered.com/app/430210/'>Megaton Rainfall</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Tuesday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/430210/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/430210/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41207/">
+			<title><![CDATA[Daily Deal - Microsoft Flight Simulator X: Steam Edition, 70% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41207/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41207/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Sat, 16 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-16T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 70% on <a href='http://store.steampowered.com/app/314160/'>Microsoft Flight Simulator X: Steam Edition</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/314160/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/314160/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41219/">
+			<title><![CDATA[Dota 2 Update #2 - June 15th, 2018]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41219/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41219/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 15 Jun 2018 16:50:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-15T16:50:00-0700</dc:date>
+						<content:encoded><![CDATA[Underhollow changes;<br>* When defeated, heroes now drop the 3 highest net worth items they are carrying. The remaining items are converted and dropped as gold for their sale cost.<br>* Significantly increased the amount of experience awarded for player eliminations.<br>* Fixed invisible Roshan killing players.<br>* Adjusted difficulty of a few combat encounters.<br>* Added an initial stock time to dynamite of 60s.<br>* Fixed heart being purchasable via its recipe.<br>* Added localization.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41206/">
+			<title><![CDATA[Dota 2 Update - June 15th, 2018]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41206/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41206/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 15 Jun 2018 13:33:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-15T13:33:00-0700</dc:date>
+						<content:encoded><![CDATA[- Fixed a bug which caused Bristleback&rsquo;s level 25 Warpath talent to give less than the intended amount of bonus damage.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41138/">
+			<title><![CDATA[Daily Deal - Hand of Fate 2, 20% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41138/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41138/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 15 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-15T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 20% on <a href='http://store.steampowered.com/app/456670/'>Hand of Fate 2</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Sunday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/456670/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/456670/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41151/">
+			<title><![CDATA[Dota 2 Update - June 14th, 2018]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41151/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41151/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 14 Jun 2018 13:10:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-14T13:10:00-0700</dc:date>
+						<content:encoded><![CDATA[* Fixed a recently introduced bug where issuing move orders would sometimes target units incorrectly.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/40885/">
+			<title><![CDATA[Free Weekend - Killing Floor 2, 60% off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/40885/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/40885/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 14 Jun 2018 10:05:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-14T10:05:00-0700</dc:date>
+						<content:encoded><![CDATA[Play <a href='http://store.steampowered.com/app/232090/'>Killing Floor 2</a> for FREE starting now through Sunday at 1PM Pacific Time. You can also pickup <a href='http://store.steampowered.com/app/232090/'>Killing Floor 2</a> at 60% off the regular price!*<br><br>If you already have Steam installed, <a href='steam://run/232090'>click here</a> to install or play Killing Floor 2.  If you don't have Steam, you can download it <a href='http://store.steampowered.com/about/'>here</a>.<br><br>*Offer ends Monday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/232090/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/232090/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41145/">
+			<title><![CDATA[Now Available on Steam - Budget Cuts, 10% off!]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41145/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41145/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 14 Jun 2018 10:00:42 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-14T10:00:42-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/400940/'>Budget Cuts</a> is Now Available on Steam and is 10% off!*<br><br>Budget Cuts is a VR stealth game for the HTC Vive, currently in development by Neat Corporation.<br><br>*Offer ends June 21 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/400940/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/400940/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41137/">
+			<title><![CDATA[Daily Deal - The Red Strings Club, 40% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41137/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41137/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 14 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-14T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 40% on <a href='http://store.steampowered.com/app/589780/'>The Red Strings Club</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Saturday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/589780/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/589780/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41042/">
+			<title><![CDATA[Daily Deal - Tomorrow Corporation Collection - 55% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41042/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41042/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 13 Jun 2018 10:15:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-13T10:15:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 55% on <a href='https://store.steampowered.com/bundle/4280/Tomorrow_Corporation_Collection/'>Tomorrow Corporation Collection</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Sunday at 10AM Pacific Time<br><a href="https://store.steampowered.com/bundle/4280/Tomorrow_Corporation_Collection/"><img src="https://steamcdn-a.akamaihd.net/steam/bundles/4280/27gjlz20ky8378r2/header_586x192.jpg?t=1502835676" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41044/">
+			<title><![CDATA[Free for a limited time: Layers of Fear]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41044/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41044/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 13 Jun 2018 08:05:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-13T08:05:00-0700</dc:date>
+						<content:encoded><![CDATA[For a limited time, get <a href='http://store.steampowered.com/app/391720/'>Layers of Fear</a> free!*<br><br>Add the game to your Steam account now, and keep it forever. <br><br>Layers of Fear is a first-person psychedelic horror game with a heavy focus on story and exploration. Players take control of a painter whose sole purpose is to finish his Magnum Opus. The player must navigate through both a constantly changing Victorian-era mansion and ghastly visions of the painter&rsquo;s fragile and crumbling psyche.<br><br>*Offer ends June 15 at 8am Pacific Time<br><a href="http://store.steampowered.com/app/391720/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/391720/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41081/">
+			<title><![CDATA[Dota 2 Update - June 12th, 2018]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41081/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41081/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 12 Jun 2018 15:20:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-12T15:20:00-0700</dc:date>
+						<content:encoded><![CDATA[* Added new post-game screen which shows progress made in your battle pass.<br>* Dota Plus, Cavern Crawl and Battle Pass post-game screens can be skipped by clicking anywhere on the screen<br>* Added section on the home page battle pass cell showing available Battle Pass activities<br>* Added an indicator on the home page Dota Plus cell if you have rewards available to claim<br>* Fixed a bug which allowed alt-clicking on items in an enemy inventory to reveal the current number of charges, through fog of war.<br>* Fixed a bug which caused in-game tipping particles to reveal which illusion was the real hero.<br>* Helm of the Dominator converted neutrals now have the same hotkey<br>* Fixed the gold hover tooltip displaying inaccurate buyback surplus<br>* Fixed a bug that would cause players to be stuck in Battle Cup<br>* Added Compute Shaders option to the Video Settings for DirectX 11 and Vulkan.  Compute shaders improve performance under most configurations.<br>* Networking for locally-hosted private lobbies always routes through new SDR relay network<br>* Improved ping estimates and host selection for custom game lobbies without dedicated servers]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41062/">
+			<title><![CDATA[Midweek Madness - Surviving Mars, 30% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41062/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41062/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 12 Jun 2018 10:05:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-12T10:05:00-0700</dc:date>
+						<content:encoded><![CDATA[Save 30% on <a href='http://store.steampowered.com/app/464920/'>Surviving Mars</a> during this week's Midweek Madness*!<br><br>*Offer ends Friday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/464920/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/464920/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41045/">
+			<title><![CDATA[Midweek Madness - ARK: Survival Evolved, 67% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41045/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41045/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 12 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-12T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Save 67% on <a href='http://store.steampowered.com/app/346110/'>ARK: Survival Evolved</a> during this week's Midweek Madness*!<br><br>*Offer ends Thursday at 4PM Pacific Time<br><a href="http://store.steampowered.com/app/346110/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/346110/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41038/">
+			<title><![CDATA[Daily Deal - LEGO Marvel, Up To 75% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41038/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41038/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 12 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-12T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save up to 75% on <a href='https://store.steampowered.com/sale/lego/'>LEGO Marvel</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Thursday at 10AM Pacific Time<br><a href="https://store.steampowered.com/sale/lego/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/379740/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41046/">
+			<title><![CDATA[Now Available on Steam - Jurassic World Evolution]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41046/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41046/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 12 Jun 2018 07:55:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-12T07:55:00-0700</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/648350/'>Jurassic World Evolution</a> is Now Available on Steam!<br><br>Place yourself at the heart of the Jurassic franchise and build your own Jurassic World. Bioengineer dinosaurs that think, feel and react intelligently to the world around them and face threats posed by espionage, breakouts and devastating tropical storms in an uncertain world where life always finds a way.<br><a href="http://store.steampowered.com/app/648350/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/648350/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41019/">
+			<title><![CDATA[Daily Deal - Little Nightmares, 60% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41019/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41019/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 11 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-11T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 60% on <a href='http://store.steampowered.com/app/424840/'>Little Nightmares</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Wednesday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/424840/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/424840/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41023/">
+			<title><![CDATA[Free Week - Quake Champions]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41023/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41023/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Sun, 10 Jun 2018 16:46:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-10T16:46:00-0700</dc:date>
+						<content:encoded><![CDATA[Play <a href='http://store.steampowered.com/app/611500/'>Quake Champions</a> for FREE starting now through Monday June 18th at 10AM Pacific Time and keep the game after. You can also pickup <a href='http://store.steampowered.com/app/611500/'>Quake Champions - Champions Pack</a> at 34% off the regular price!*<br><br>If you already have Steam installed, <a href='steam://run/611500'>click here</a> to install or play Quake Champions.  If you don't have Steam, you can download it <a href='http://store.steampowered.com/about/'>here</a>.<br><br>*Offer ends Monday June 18th at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/611500/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/611500/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/41011/">
+			<title><![CDATA[Daily Deal - Hacknet, 75% Off]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/41011/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/41011/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Sun, 10 Jun 2018 10:00:00 -0700</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2018-06-10T10:00:00-0700</dc:date>
+						<content:encoded><![CDATA[Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/365450/'>Hacknet</a>!*<br><br>Look for the deals each day on the front page of Steam.  Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are!<br><br>*Offer ends Tuesday at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/365450/"><img src="https://steamcdn-a.akamaihd.net/steam/apps/365450/capsule_467x181.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+	</rdf:RDF>
