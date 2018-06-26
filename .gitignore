@@ -28,6 +28,7 @@ wheels/
 .installed.cfg
 *.egg
 venv/
+.env
 
 #Pycharm files
 .idea/
