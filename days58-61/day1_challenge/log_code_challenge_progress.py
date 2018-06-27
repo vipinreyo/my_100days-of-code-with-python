@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 TALKPYTHON_URL = 'https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python'
 LOG_PROGRESS_FILE = 'log.md'
 
+
 def get_course_outline():
     response = requests.get(TALKPYTHON_URL)
     response.raise_for_status()
@@ -19,9 +20,9 @@ def get_course_outline():
     for div in chapter_divs[1:]:
         a = div.find('a')
         title = a['title'].replace('Watch chapter', '')
-        outline.append('{} Day {}.'.format(title, day_count))
-        outline.append('{} Day {}.'.format(title, day_count + 1))
-        outline.append('{} Day {}.'.format(title, day_count + 2))
+        outline.append('{} Day {} (Lectures). '.format(title, day_count))
+        outline.append('{} Day {} (Practice).'.format(title, day_count + 1))
+        outline.append('{} Day {} (More coding).'.format(title, day_count + 2))
         day_count += 3
 
     return outline
