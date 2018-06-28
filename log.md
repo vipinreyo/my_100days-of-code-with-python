@@ -60,3 +60,4 @@
 | 57    | Jun 15, 2018 |  Days 55-57: Structured API clients with uplink in course #100DaysOfCode in Python. Day 57 (More coding). |
 | 58    | Jun 16, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 58 (Lectures).  |
 | 59    | Jun 17, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 59 (Practice). |
+| 60    | Jun 18, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 60 (More coding). |
