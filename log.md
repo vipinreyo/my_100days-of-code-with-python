@@ -61,3 +61,4 @@
 | 58    | Jun 16, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 58 (Lectures).  |
 | 59    | Jun 17, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 59 (Practice). |
 | 60    | Jun 18, 2018 |  Days 58-60: Twitter data analysis with Python in course #100DaysOfCode in Python. Day 60 (More coding). |
+| 61    | Jun 19, 2018 |  Days 61-63: Using the Github API with Python in course #100DaysOfCode in Python. Day 61 (Lectures).  |
