@@ -65,3 +65,5 @@
 | 62    | Jun 20, 2018 |  Days 61-63: Using the Github API with Python in course #100DaysOfCode in Python. Day 62 (Practice). |
 | 63    | Jun 21, 2018 |  Days 61-63: Using the Github API with Python in course #100DaysOfCode in Python. Day 63 (More coding). |
 | 64    | Jun 22, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 64 (Lectures).  |
+| 65    | Jun 23, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 65 (Practice). |
+| 66    | Jun 24, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 66 (More coding). |
