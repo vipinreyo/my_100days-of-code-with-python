@@ -67,3 +67,5 @@
 | 64    | Jun 22, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 64 (Lectures).  |
 | 65    | Jun 23, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 65 (Practice). |
 | 66    | Jun 24, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 66 (More coding). |
+| 67    | Jun 25, 2018 |  Days 67-69: Copy and Paste with Pyperclip in course #100DaysOfCode in Python. Day 67 (Lectures).  |
+| 68    | Jun 26, 2018 |  Days 67-69: Copy and Paste with Pyperclip in course #100DaysOfCode in Python. Day 68 (Practice). |
