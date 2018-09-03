@@ -27,6 +27,11 @@ def main():
         cell = f'B{row}'
         print(ws1[cell].value)
 
+    print('Get the total of profits and save back to the worksheet')
+    cell = f'L{(maxrow + 2)}'
+    ws1[cell] = f'=SUM(L2:L{maxrow - 1})'
+    wb.save('Financial Sample.xlsx')
+
 
 if __name__ == '__main__':
     main()
