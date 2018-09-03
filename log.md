@@ -69,3 +69,6 @@
 | 66    | Jun 24, 2018 |  Days 64-66: Sending emails with smtplib in course #100DaysOfCode in Python. Day 66 (More coding). |
 | 67    | Jun 25, 2018 |  Days 67-69: Copy and Paste with Pyperclip in course #100DaysOfCode in Python. Day 67 (Lectures).  |
 | 68    | Jun 26, 2018 |  Days 67-69: Copy and Paste with Pyperclip in course #100DaysOfCode in Python. Day 68 (Practice). |
+| 69    | Jun 27, 2018 |  Days 67-69: Copy and Paste with Pyperclip in course #100DaysOfCode in Python. Day 69 (More coding). |
+| 70    | Jun 28, 2018 |  Days 70-72: Excel automation with openpyxl in course #100DaysOfCode in Python. Day 70 (Lectures).  |
+| 71    | Jun 29, 2018 |  Days 70-72: Excel automation with openpyxl in course #100DaysOfCode in Python. Day 71 (Practice). |
