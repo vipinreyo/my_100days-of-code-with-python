@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title> Favourite Beers </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body style="margin-left:50px">
+        <h1> Beers!!!</h1>
+
+        <div>
+            <table class="table-responsive table-striped table-bordered">
+                <tr>
+                    <th>Person</th>
+                    <th>Fav beer</th>
+                </tr>
+
+                {% for name, beer in fav_beer.items()  %}
+                    <tr>
+                        <td>{{name}}</td>
+                        <td>{{beer}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+    </body>
+</html>
