@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title> GCC Health Data </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body style="margin-left:50px">
+        <h1> Health Data of GCC Apps </h1>
+
+        <div>
+            <table class="table-responsive table-striped table-bordered">
+                <tr>
+                    <th>Date</th>
+                    <th>App name</th>
+                    <th>Status</th>
+                    <th>Error info</th>
+                </tr>
+
+                {% for date, name, status, error in health_data %}
+                    <tr>
+                        <td>{{date}}</td>
+                        <td>{{name}}</td>
+                        <td>{{status}}</td>
+                        <td>{{error}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+    </body>
+</html>
